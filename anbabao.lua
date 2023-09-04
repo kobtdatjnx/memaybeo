@@ -16,6 +16,6 @@ spawn(function()
 end)
 spawn(function()
    loadstring(game:HttpGet(
-	"https://raw.githubusercontent.com/abc/xyz/main/sex.lua
+	"https://raw.githubusercontent.com/memaybeohub/Function-Scripts/main/erth.lua"
    ))()
 end)
